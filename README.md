@@ -4,13 +4,14 @@ GarageAssistant
 
 This is a parking assistant
 the device is fully automated. Works if car lights shine on the photoresistor.
-4 states:
-- the dot is lit (standby),
-= -ride driving.
--powoli = slow,
--Stop = stop the vehicle.
 
-In addition, there is a button option that shows the temperature and humidity in the garage.
+4 states:
+- the dot is (standby),
+- ride is driving.
+- slowly is slow driving,
+- stop is stop the vehicle.
+
+In addition, there is a button option that shows the temperature and humidity in the garage, when pressed.
 
 Note library installation
 MD_MAX72xx.h
